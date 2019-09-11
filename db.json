@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "My channel 1",
+      "description": "My channel 123",
+      "userId": "101808888752338381935",
+      "id": 1
+    },
+    {
+      "title": "My channel 2",
+      "description": "My channel 2",
+      "userId": "101808888752338381935",
+      "id": 2
+    },
+    {
+      "title": "My channel 3",
+      "description": "My channel 3",
+      "userId": "101808888752338381935",
+      "id": 3
+    }
+  ]
+}
